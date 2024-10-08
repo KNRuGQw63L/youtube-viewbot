@@ -12,7 +12,7 @@
   
 4. Go in the extracted folder and open the start.bat file   
  
-5. Enjoy!
+5. Enjoy! 
   
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"> 
